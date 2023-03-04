@@ -484,7 +484,7 @@ img {
 }
 
 .banner {
-  background: url(../../img/banner_bgr.jpg) no-repeat center/cover;
+  background: url(../img/banner_bgr.jpg) no-repeat center/cover;
 }
 .banner__wrapper {
   min-height: 100vh;
